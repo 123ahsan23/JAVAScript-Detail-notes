@@ -1,0 +1,112 @@
+//word vs keyword
+
+The words that have no meaning in javascript
+chacha = word in javascript
+bhaiya is a word
+
+The below are keywords which have some meaning in javascript
+for
+if
+else
+var
+let
+
+
+
+//variables and constants
+
+code men koi bhi data store krne ke liye jis ka use hota he usko variable kehte hen
+Variables used for data storing
+Variables jis ki value badle , constants jis ki value na badle
+score = 1;
+lives = 2;
+
+
+//hoisting - variable and functions are hoisted which means there declaration is moved on the top 
+of the code
+	
+//hosting and hoisting
+ 
+ var a = 12; Javascript convert this into
+ var a; //This part is declaration 
+ a=12; // This part is initialization
+
+
+
+
+//Types in js (Primitive and refernece)
+
+primitives = number , string , null, undefined , boolean
+refernece = [] {} () "Aesi koi bhi value jisko copy krne par real copy ni hota, balki us main value ka refernece
+pass hojata he, use hum refernece kehte hen , or jiska copy krne pr real copy hojaye wo value primitive 
+hoti he 
+
+
+
+//conditionals - if else else-if
+Jab bhi baat agar magar pr aaye gi ya phir baat aayegi aesa hva to ye krun wese hva to ye krun
+if(true) or if(false)
+
+//if there is false then else code run
+if(11>120){
+
+}
+else{
+
+}
+
+
+if(11>12){
+
+}
+else if(12>13){
+
+}
+else(14>16){
+
+}
+else{ //This else will run then
+
+}
+
+
+
+
+// conditionals - if else else-if
+
+//loops - for while (Repeat) - 1111111111
+// eg. 1111111111111 (Repeatition of numbers and print)
+// eg. 123456789 (Repeatition of print)
+
+//eg. 30 baar harsh
+//for and while loop
+
+
+
+
+//functions
+functions ka matlab ap kuch code ko likh kr koi naam de sakte ho an baad men use use kr sakte ho with that name as many times
+
+function mainly teen kaam ke liye hote hen
+1) jab ap apna code forun ni chalana chahte future men chalana chahte ho 
+2) Jab ap apna code reuse krna chahte ho 
+3) jab ap apna code chalana chahte ho har bar with different data 
+
+
+
+
+//arrays - hum aik variable men ak value store kr paate hain par jab hamen aik se zyada value 
+store krni ho phir use hota he array ka, matlab ki array apko freedom deta he aik se zyada value use krne ka 
+
+//push pop shift unshift splice
+
+
+//objects - aik se zyada bande ki baat ki to hva array 
+aik bande ke baare men saari baat ki to hva objects 
+
+//objects hai aik bande ki detaisl ko hold krna in a key value pair
+
+
+
+//Props vs methods
+//Object ke andar aesi property jiski value function ho usse method kehte hen

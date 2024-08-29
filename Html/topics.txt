@@ -1,0 +1,11 @@
+make html file 
+make boilerplate code
+understand tag
+understand h1-h6
+understand p
+understand br
+understand img
+understand a //called hyperlinks or liknks 
+understand div
+understand id
+understand class

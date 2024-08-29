@@ -1,0 +1,4 @@
+<dog> = dog tag Everything that written in <> in under this is tag
+Heading h1 - h6
+div is a box which has full width but 0 height
+id name never repeat

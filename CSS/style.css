@@ -1,0 +1,133 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+/* koi bhi element target karo phir uski curly braces on kro 
+
+.h1{
+    
+} class
+
+#h1 id */
+
+/* h1 tag */
+
+/* For p tag in index.html file */
+/* p{
+
+}
+#p1{
+
+} 
+
+.p1{
+
+}
+*/
+
+/* For div in index.html and for div with class main for all topic padding margin etc*/
+.main{
+    /* width: 50%;
+    height: 50%;  */
+    /* width: 100%;
+    height: 100%;
+    margin: 50px;
+    padding: 50px; */
+    /* margin: 20px; */
+    /* margin-top: 20px; */
+    /* margin-left: 20px; */
+    /* margin-right: 20px; */
+    /* margin: 20px 30px 40px 12px; like clockwise direction in clock */
+    /* margin: 20px 30px; this is for top and bottom */
+    /* background-color: red; */
+}
+
+/* 
+#p1{
+    width: 100%;
+    height: 100%;
+    background-image: url(https://images.unsplash.com/photo-1590677147861-622ec92a60f6?q=80&w=1467&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    /* background-position: bottom; 
+}*/
+
+
+/* For position absolute and if we not give any position then default position is static */
+/* #car1{
+    width: 100px;
+    height: 120px;
+    background-color: red;
+    position: absolute;
+} */
+
+
+/* #car2{
+    width: 110px;
+    height: 90px;
+    background-color: blue;
+    position: absolute;
+    /* margin-left: 200px; */
+    /* left: 40%; 
+}
+    */
+
+
+/* #car3{
+    width: 130px;
+    height: 110px;
+    background-color: green;
+    position: absolute;
+} */
+
+
+/* for position relative */
+/* #box{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+}
+#secondbox{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    position: relative;
+    left: 40%
+} */
+
+
+#box{
+    width: 500px;
+    height: 500px;
+    background-color: grey;
+    display: flex;
+    /* justify-content: center; */
+    justify-content: center;
+    align-items: center;
+    position: relative;
+   
+}
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+   
+}
+#box2{
+    width: 130px;
+    height: 100px;
+    background-color: green;
+    
+}
+
+#box3{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}

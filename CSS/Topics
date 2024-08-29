@@ -1,0 +1,27 @@
+understanding css - styling
+making css file
+understanding linking
+css boilerplate
+understanding css writing way
+understanding width, height
+understanding units, px and %
+understanding margin padding -margin hota he  elemnets ke beech men space -padding
+hota he aik hi elemnet ke andr space
+understanding background image and things related to it.
+understanding position absolute, relative
+understanding flexbox - for top to bottom use align-items and for left to right use 
+justify-content
+
+
+CSS Boiler plate is as follows
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
