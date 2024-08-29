@@ -1,0 +1,19 @@
+sync and async kiya hota he 
+asyn js kiya hota he 
+js is not asynchronous
+asyn ki poori kahani 
+single threading and multithreading
+callback 
+promises
+then and catch
+try and catch 
+async await
+5 use cases ek dum real world wale
+node men jab db
+fetch
+settimeout
+setInterval 
+
+[concept aside]
+concurrency and parallelism
+throttling
